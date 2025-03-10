@@ -282,4 +282,4 @@ For support or to suggest features, please refer to the forum thread or contact:
 
 ---
 
-*Happy Mining!*
+> A big thank you to all contributors and users for your continued support. This project wouldn’t be possible without your passion and dedication. Your feedback and contributions are always appreciated!
