@@ -14,7 +14,6 @@
 - [Features](#features)
 - [Usage Summary](#usage-summary)
 - [Building CGMiner](#building-cgminer)
-- [Usage Instructions](#usage-instructions)
 - [Advanced Options](#advanced-options)
 - [USB Device Setup](#usb-device-setup)
   - [Windows](#windows)
@@ -26,6 +25,15 @@
 - [FAQ](#faq)
 - [License](#license)
 - [Contact](#contact)
+- [Releases](#releases)
+
+
+---
+
+## Releases
+
+You can download the latest stable releases of CGMiner from the [Releases page](https://github.com/monlekk2/CGMiner/releases).
+
 
 ---
 
@@ -275,4 +283,3 @@ For support or to suggest features, please refer to the forum thread or contact:
 ---
 
 *Happy Mining!*
-
